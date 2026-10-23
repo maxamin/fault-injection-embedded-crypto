@@ -1,0 +1,7 @@
+[book]
+title = "Fault Injection on Embedded Crypto"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/fault-injection-embedded-crypto"
